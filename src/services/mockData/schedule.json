@@ -1,0 +1,209 @@
+[
+  {
+    "Id": 1,
+    "day": "Monday",
+    "time": "08:00",
+    "subject": "Mathematics",
+    "teacher": "Dr. Sarah Mitchell",
+    "room": "M101",
+    "classId": 1
+  },
+  {
+    "Id": 2,
+    "day": "Monday",
+    "time": "09:00",
+    "subject": "Science",
+    "teacher": "Prof. David Kumar",
+    "room": "S205",
+    "classId": 2
+  },
+  {
+    "Id": 3,
+    "day": "Monday",
+    "time": "10:00",
+    "subject": "English",
+    "teacher": "Ms. Rachel Thompson",
+    "room": "E302",
+    "classId": 3
+  },
+  {
+    "Id": 4,
+    "day": "Monday",
+    "time": "11:00",
+    "subject": "History",
+    "teacher": "Mr. James Foster",
+    "room": "H201",
+    "classId": 4
+  },
+  {
+    "Id": 5,
+    "day": "Monday",
+    "time": "14:00",
+    "subject": "Art",
+    "teacher": "Ms. Lisa Martinez",
+    "room": "A101",
+    "classId": 5
+  },
+  {
+    "Id": 6,
+    "day": "Monday",
+    "time": "15:00",
+    "subject": "Physical Education",
+    "teacher": "Coach Mike Johnson",
+    "room": "Gym",
+    "classId": 6
+  },
+  {
+    "Id": 7,
+    "day": "Tuesday",
+    "time": "08:00",
+    "subject": "Mathematics",
+    "teacher": "Dr. Sarah Mitchell",
+    "room": "M101",
+    "classId": 1
+  },
+  {
+    "Id": 8,
+    "day": "Tuesday",
+    "time": "09:00",
+    "subject": "Science",
+    "teacher": "Prof. David Kumar",
+    "room": "S205",
+    "classId": 2
+  },
+  {
+    "Id": 9,
+    "day": "Tuesday",
+    "time": "10:00",
+    "subject": "English",
+    "teacher": "Ms. Rachel Thompson",
+    "room": "E302",
+    "classId": 3
+  },
+  {
+    "Id": 10,
+    "day": "Tuesday",
+    "time": "13:00",
+    "subject": "History",
+    "teacher": "Mr. James Foster",
+    "room": "H201",
+    "classId": 4
+  },
+  {
+    "Id": 11,
+    "day": "Tuesday",
+    "time": "14:00",
+    "subject": "Art",
+    "teacher": "Ms. Lisa Martinez",
+    "room": "A101",
+    "classId": 5
+  },
+  {
+    "Id": 12,
+    "day": "Wednesday",
+    "time": "08:00",
+    "subject": "Mathematics",
+    "teacher": "Dr. Sarah Mitchell",
+    "room": "M101",
+    "classId": 1
+  },
+  {
+    "Id": 13,
+    "day": "Wednesday",
+    "time": "10:00",
+    "subject": "Science",
+    "teacher": "Prof. David Kumar",
+    "room": "S205",
+    "classId": 2
+  },
+  {
+    "Id": 14,
+    "day": "Wednesday",
+    "time": "11:00",
+    "subject": "English",
+    "teacher": "Ms. Rachel Thompson",
+    "room": "E302",
+    "classId": 3
+  },
+  {
+    "Id": 15,
+    "day": "Wednesday",
+    "time": "13:00",
+    "subject": "History",
+    "teacher": "Mr. James Foster",
+    "room": "H201",
+    "classId": 4
+  },
+  {
+    "Id": 16,
+    "day": "Wednesday",
+    "time": "15:00",
+    "subject": "Physical Education",
+    "teacher": "Coach Mike Johnson",
+    "room": "Gym",
+    "classId": 6
+  },
+  {
+    "Id": 17,
+    "day": "Thursday",
+    "time": "09:00",
+    "subject": "Mathematics",
+    "teacher": "Dr. Sarah Mitchell",
+    "room": "M101",
+    "classId": 1
+  },
+  {
+    "Id": 18,
+    "day": "Thursday",
+    "time": "10:00",
+    "subject": "Science",
+    "teacher": "Prof. David Kumar",
+    "room": "S205",
+    "classId": 2
+  },
+  {
+    "Id": 19,
+    "day": "Thursday",
+    "time": "14:00",
+    "subject": "English",
+    "teacher": "Ms. Rachel Thompson",
+    "room": "E302",
+    "classId": 3
+  },
+  {
+    "Id": 20,
+    "day": "Thursday",
+    "time": "15:00",
+    "subject": "Art",
+    "teacher": "Ms. Lisa Martinez",
+    "room": "A101",
+    "classId": 5
+  },
+  {
+    "Id": 21,
+    "day": "Friday",
+    "time": "09:00",
+    "subject": "History",
+    "teacher": "Mr. James Foster",
+    "room": "H201",
+    "classId": 4
+  },
+  {
+    "Id": 22,
+    "day": "Friday",
+    "time": "11:00",
+    "subject": "Mathematics",
+    "teacher": "Dr. Sarah Mitchell",
+    "room": "M101",
+    "classId": 1
+  },
+  {
+    "Id": 23,
+    "day": "Friday",
+    "time": "14:00",
+    "subject": "Physical Education",
+    "teacher": "Coach Mike Johnson",
+    "room": "Gym",
+    "classId": 6
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "title": "Algebra Quiz 1",
+    "classId": 1,
+    "subject": "Mathematics",
+    "dueDate": "2024-01-20",
+    "totalPoints": 100,
+    "description": "Basic algebraic equations and problem solving",
+    "type": "quiz",
+    "createdAt": "2024-01-10"
+  },
+  {
+    "Id": 2,
+    "title": "Science Lab Report",
+    "classId": 2,
+    "subject": "Science",
+    "dueDate": "2024-01-25",
+    "totalPoints": 150,
+    "description": "Chemical reactions laboratory analysis",
+    "type": "lab",
+    "createdAt": "2024-01-08"
+  },
+  {
+    "Id": 3,
+    "title": "Essay on Literature",
+    "classId": 3,
+    "subject": "English",
+    "dueDate": "2024-01-30",
+    "totalPoints": 200,
+    "description": "Analysis of Shakespeare's Romeo and Juliet",
+    "type": "essay",
+    "createdAt": "2024-01-05"
+  },
+  {
+    "Id": 4,
+    "title": "History Timeline",
+    "classId": 4,
+    "subject": "History",
+    "dueDate": "2024-02-05",
+    "totalPoints": 80,
+    "description": "World War II chronological events",
+    "type": "project",
+    "createdAt": "2024-01-12"
+  },
+  {
+    "Id": 5,
+    "title": "Art Portfolio",
+    "classId": 5,
+    "subject": "Art",
+    "dueDate": "2024-02-15",
+    "totalPoints": 120,
+    "description": "Collection of 5 original artworks",
+    "type": "portfolio",
+    "createdAt": "2024-01-03"
+  },
+  {
+    "Id": 6,
+    "title": "Fitness Assessment",
+    "classId": 6,
+    "subject": "Physical Education",
+    "dueDate": "2024-01-22",
+    "totalPoints": 50,
+    "description": "Physical fitness evaluation and goals",
+    "type": "assessment",
+    "createdAt": "2024-01-15"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "name": "Mathematics 10A",
+    "subject": "Mathematics",
+    "teacherId": "t1",
+    "teacher": "Dr. Sarah Mitchell",
+    "grade": 10,
+    "section": "A",
+    "studentIds": [1, 2, 10],
+    "schedule": {
+      "Monday": "09:00",
+      "Wednesday": "10:00",
+      "Friday": "11:00"
+    },
+    "room": "M101",
+    "description": "Advanced algebra and geometry concepts"
+  },
+  {
+    "Id": 2,
+    "name": "Science 10B",
+    "subject": "Science",
+    "teacherId": "t2",
+    "teacher": "Prof. David Kumar",
+    "grade": 10,
+    "section": "B",
+    "studentIds": [3, 10],
+    "schedule": {
+      "Tuesday": "09:00",
+      "Thursday": "10:00"
+    },
+    "room": "S205",
+    "description": "Physics and chemistry fundamentals"
+  },
+  {
+    "Id": 3,
+    "name": "English 11A",
+    "subject": "English",
+    "teacherId": "t3",
+    "teacher": "Ms. Rachel Thompson",
+    "grade": 11,
+    "section": "A",
+    "studentIds": [4, 5],
+    "schedule": {
+      "Monday": "14:00",
+      "Tuesday": "15:00",
+      "Thursday": "14:00"
+    },
+    "room": "E302",
+    "description": "Literature analysis and creative writing"
+  },
+  {
+    "Id": 4,
+    "name": "History 9A",
+    "subject": "History",
+    "teacherId": "t4",
+    "teacher": "Mr. James Foster",
+    "grade": 9,
+    "section": "A",
+    "studentIds": [6],
+    "schedule": {
+      "Monday": "11:00",
+      "Wednesday": "13:00",
+      "Friday": "09:00"
+    },
+    "room": "H201",
+    "description": "World history and cultural studies"
+  },
+  {
+    "Id": 5,
+    "name": "Art 9B",
+    "subject": "Art",
+    "teacherId": "t5",
+    "teacher": "Ms. Lisa Martinez",
+    "grade": 9,
+    "section": "B",
+    "studentIds": [7],
+    "schedule": {
+      "Tuesday": "13:00",
+      "Thursday": "15:00"
+    },
+    "room": "A101",
+    "description": "Visual arts and creative expression"
+  },
+  {
+    "Id": 6,
+    "name": "Physical Education 12A",
+    "subject": "Physical Education",
+    "teacherId": "t6",
+    "teacher": "Coach Mike Johnson",
+    "grade": 12,
+    "section": "A",
+    "studentIds": [8, 9],
+    "schedule": {
+      "Monday": "15:00",
+      "Wednesday": "15:00",
+      "Friday": "14:00"
+    },
+    "room": "Gym",
+    "description": "Sports and fitness training"
+  }
+]

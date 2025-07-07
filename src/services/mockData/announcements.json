@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "title": "School Closure Due to Weather",
+    "content": "Due to severe weather conditions, all classes will be cancelled tomorrow, January 16th. Please stay safe and check your email for updates on when classes will resume.",
+    "authorId": "admin1",
+    "targetAudience": "all",
+    "createdAt": "2024-01-15T08:00:00Z",
+    "priority": "high",
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "title": "Parent-Teacher Conference Schedule",
+    "content": "Parent-teacher conferences are scheduled for February 1st-3rd. Please sign up for your preferred time slot through the parent portal. Conferences will be held in person in the main auditorium.",
+    "authorId": "admin1",
+    "targetAudience": "parents",
+    "createdAt": "2024-01-12T14:30:00Z",
+    "priority": "medium",
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "title": "New Library Hours",
+    "content": "Starting Monday, January 22nd, the library will be open extended hours. New hours are Monday-Thursday 7:00 AM - 6:00 PM, and Friday 7:00 AM - 4:00 PM. Weekend hours remain the same.",
+    "authorId": "admin1",
+    "targetAudience": "students",
+    "createdAt": "2024-01-10T11:15:00Z",
+    "priority": "low",
+    "isActive": true
+  },
+  {
+    "Id": 4,
+    "title": "Staff Meeting - Curriculum Updates",
+    "content": "All teaching staff are required to attend the curriculum review meeting on January 25th at 3:30 PM in the conference room. We'll be discussing new state standards and implementation strategies.",
+    "authorId": "admin1",
+    "targetAudience": "teachers",
+    "createdAt": "2024-01-08T16:45:00Z",
+    "priority": "high",
+    "isActive": true
+  },
+  {
+    "Id": 5,
+    "title": "Science Fair Registration Open",
+    "content": "The annual science fair registration is now open for grades 9-12. Students can sign up in the main office or through the student portal. Registration deadline is February 15th. Prizes will be awarded in multiple categories.",
+    "authorId": "admin1",
+    "targetAudience": "students",
+    "createdAt": "2024-01-05T09:20:00Z",
+    "priority": "medium",
+    "isActive": true
+  },
+  {
+    "Id": 6,
+    "title": "Cafeteria Menu Changes",
+    "content": "Based on student feedback, we're introducing new healthy menu options starting next week. The salad bar will be expanded and we're adding more vegetarian and gluten-free choices. Full menu available on the school website.",
+    "authorId": "admin1",
+    "targetAudience": "all",
+    "createdAt": "2024-01-03T12:00:00Z",
+    "priority": "low",
+    "isActive": true
+  }
+]
